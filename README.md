@@ -15,7 +15,8 @@ The objective was to identify Grid Supply Points (GSPs) suitable for installing 
 
 **GPLVM –** The unsupervised non-parametric statistical and machine learning model such as Gaussian Process Latent Variable Model has been applied on the labelled GSP data to visualize them in 2D latent space
 
-**Python Package used for GPLVM model –** pyro library from PyTorch framework
+### Python Package used for GPLVM model: 
+pyro library from the PyTorch framework
 
 ### Results with conclusion:
 1. A Very High dimensional GSP data can be visualised in 2-dimensional latent space by the GPLVM
