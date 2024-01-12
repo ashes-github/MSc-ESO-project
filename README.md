@@ -12,9 +12,11 @@ The objective was to identify Grid Supply Points (GSPs) suitable for installing 
 
 ### Mathematical and Statistical method applied:
 
-**Step: Fourier analysis –** Frequency analysis of each time series GSP data has been done by Fourier transform. It helps us to label or categorize GSPs for battery or no-battery based on its Fourier spectral density measure
+**Steps:**
 
-**Step: GPLVM –** The unsupervised non-parametric statistical and machine learning model such as Gaussian Process Latent Variable Model has been applied on the labelled GSP data to visualize them in 2D latent space
+**1. Fourier analysis –** Frequency analysis of each time series GSP data has been done by Fourier transform. It helps us to label or categorize GSPs for battery or no-battery based on its Fourier spectral density measure
+
+**2. GPLVM –** The unsupervised non-parametric statistical and machine learning model such as Gaussian Process Latent Variable Model has been applied on the labelled GSP data to visualize them in 2D latent space
 
 ### Python Package used for GPLVM model: 
 pyro library from the PyTorch framework
