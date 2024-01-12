@@ -22,11 +22,11 @@ The objective was to identify Grid Supply Points (GSPs) suitable for installing 
 pyro library from the PyTorch framework
 
 ### Results with conclusion:
-1. A Very High dimensional GSP data can be visualised in 2-dimensional latent space by the GPLVM
+**1.** A Very High dimensional GSP data can be visualised in 2-dimensional latent space by the GPLVM
 
-2. As we move along from left to right in the 2D latent space, the scope for short term storage (battery) installation lessens and the variance of the latent points increases
+**2.** As we move along from left to right in the 2D latent space, the scope for short term storage (battery) installation lessens and the variance of the latent points increases
 
-3. Usually, in the area of separation or coexistence of the points from two categories (battery or no-battery), the priority of storage installation should be the least because of their nearly close variance and thereby proximity to each other
+**3.** Usually, in the area of separation or coexistence of the points from two categories (battery or no-battery), the priority of storage installation should be the least because of their nearly close variance and thereby proximity to each other
 
 
 
